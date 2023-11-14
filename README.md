@@ -114,9 +114,8 @@ div{
 ```
 
 ## OUTPUT:
-![image](https://github.com/knight7080/cover/assets/88542035/fc4b73c7-cb75-4af5-ba40-b247ba235129)
-![image](https://github.com/knight7080/cover/assets/88542035/8ff58270-931c-4502-a9ba-b3979ae69adc)
-
+![Alt text](image.png)
+![Alt text](image-1.png)
 
 
 
