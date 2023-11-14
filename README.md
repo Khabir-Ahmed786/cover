@@ -114,8 +114,10 @@ div{
 ```
 
 ## OUTPUT:
-![Alt text](image.png)
-![Alt text](image-1.png)
+![image](https://github.com/Khabir-Ahmed786/cover/assets/143950752/8390b1d9-350b-49c9-bc2f-2df1138ff12a)
+![image](https://github.com/Khabir-Ahmed786/cover/assets/143950752/0f134f49-c1a4-4625-b361-e45ba2a8db34)
+
+
 
 
 
